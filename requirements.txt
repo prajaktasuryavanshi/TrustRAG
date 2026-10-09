@@ -1,0 +1,11 @@
+streamlit
+datasets==2.19.0
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+torch
+pandas
+numpy
+PyPDF2
+python-docx
